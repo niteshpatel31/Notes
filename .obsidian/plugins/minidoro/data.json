@@ -1,0 +1,11 @@
+{
+  "workTime": 51,
+  "shortBreakTime": 5,
+  "longBreakTime": 15,
+  "longBreakInterval": 3,
+  "autoStartBreaks": true,
+  "autoStartPomodoros": true,
+  "showDesktopNotification": true,
+  "playSound": true,
+  "showInStatusBar": false
+}

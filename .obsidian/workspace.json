@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f87c4536c4e91eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d050154ace80212f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9e367349606738",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "762571337b1da950",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac99643015f7549a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e9e8a80bc7ff87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1c61814c2528266",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b52bf9586180a440",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.50260543823242
+  },
+  "right": {
+    "id": "5b9706a3dff6af21",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd69ea9edcffdac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde407eb0607d439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Routine Starting Jan,2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Daily Routine Starting Jan,2026"
+            }
+          },
+          {
+            "id": "c49ed7b7c66189a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Routine Starting Jan,2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Routine Starting Jan,2026"
+            }
+          },
+          {
+            "id": "698c22238cdfdbb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dddb19f52f197d22",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b9383ed4f9886ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Routine Starting Jan,2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Daily Routine Starting Jan,2026"
+            }
+          },
+          {
+            "id": "26369f5dc39556c4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ae9e367349606738",
+  "lastOpenFiles": [
+    "00-Inbox/Two Sum.md",
+    "Two Sum.md",
+    "99-Templates/algo_concept.md",
+    "99-Templates/system_concept.md",
+    "99-Templates/debug_session.md",
+    "99-Templates/algo_problem.md",
+    "PLAN.md",
+    "Excalidraw/Drawing 2026-06-09 13.25.31.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled.base",
+    "99-Templates",
+    "05-Projects",
+    "04-English",
+    "02-Systems",
+    "01-DSA",
+    "00-Inbox",
+    "03-CP",
+    "2026-06-09.md",
+    "Daily Routine Starting Jan,2026.md",
+    "ChullSheet/28th May.md",
+    "Welcome.md"
+  ]
+}
