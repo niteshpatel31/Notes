@@ -1,4 +1,14 @@
 {
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "00-Inbox",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

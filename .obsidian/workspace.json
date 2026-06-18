@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "d050154ace80212f",
+        "id": "d0bc4d21974daf7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9e367349606738",
+            "id": "eec2eee670ea3f75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 49.77602847192503,
+                  "y": -166.17047648347207,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "4c23497a290736ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-19 00.13.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-19 00.13.51.excalidraw"
             }
           }
         ]
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242
+    "width": 238.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "5b9706a3dff6af21",
@@ -170,9 +190,29 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "357b2efe27f4de49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a354dae9f19453a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -187,35 +227,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ae9e367349606738",
+  "active": "eec2eee670ea3f75",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-19 00.13.51.excalidraw.md",
+    "Untitled.canvas",
+    "00-Inbox/Pasted image 20260619001306.png",
+    "Untitled.md",
+    "PLAN_2.md",
+    "RESOURCES.md",
+    "PLAN.md",
+    "03-CP/Codeforces",
+    "03-CP/Untitled.md",
+    "03-CP/Leetcode",
+    "01-DSA/Untitled.md",
+    "00-Inbox/Untitled.md",
+    "PLAN_1.md",
+    "99-Templates/algo_problem.md",
+    "99-Templates/daily_log.md",
     "00-Inbox/Two Sum.md",
     "Two Sum.md",
     "99-Templates/algo_concept.md",
     "99-Templates/system_concept.md",
     "99-Templates/debug_session.md",
-    "99-Templates/algo_problem.md",
-    "PLAN.md",
     "Excalidraw/Drawing 2026-06-09 13.25.31.excalidraw.md",
     "Excalidraw",
     "Untitled 1.canvas",
     "Untitled 1.base",
-    "Untitled.canvas",
     "Untitled.base",
     "99-Templates",
     "05-Projects",
     "04-English",
     "02-Systems",
     "01-DSA",
-    "00-Inbox",
-    "03-CP",
     "2026-06-09.md",
     "Daily Routine Starting Jan,2026.md",
     "ChullSheet/28th May.md",

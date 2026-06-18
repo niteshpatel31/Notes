@@ -27,7 +27,7 @@
       }
     }
   ],
-  "countComments": true,
+  "countComments": false,
   "collectStats": false,
   "displaySectionCounts": false,
   "pageWords": 300,
