@@ -4,36 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bc4d21974daf7b",
+        "id": "49807ff9bce90938",
         "type": "tabs",
         "children": [
           {
-            "id": "eec2eee670ea3f75",
+            "id": "9845b0bc7b12ede9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 49.77602847192503,
-                  "y": -166.17047648347207,
-                  "zoom": 1
+                "file": "PLAN_2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4c23497a290736ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-06-19 00.13.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-19 00.13.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "PLAN_2"
             }
           }
         ]
@@ -93,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242,
-    "collapsed": true
+    "width": 238.50260543823242
   },
   "right": {
     "id": "5b9706a3dff6af21",
@@ -216,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,12 +230,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eec2eee670ea3f75",
+  "active": "9845b0bc7b12ede9",
   "lastOpenFiles": [
+    "03-CP/Leetcode/DailyProblems/angle-between-hands-of-a-clock.md",
+    "00-Inbox/2026-06-19.md",
+    "00-Inbox/Pasted Image 20260619001630_444.png",
+    "03-CP/Leetcode/DailyProblems/Untitled.md",
+    "Untitled.md",
+    "00-Inbox/Untitled.md",
     "Excalidraw/Drawing 2026-06-19 00.13.51.excalidraw.md",
+    "03-CP/Leetcode/DailyProblems",
+    "00-Inbox/Pasted Image 20260619002411_999.png",
+    "00-Inbox/Pasted Image 20260619002322_669.png",
     "Untitled.canvas",
     "00-Inbox/Pasted image 20260619001306.png",
-    "Untitled.md",
     "PLAN_2.md",
     "RESOURCES.md",
     "PLAN.md",
@@ -248,7 +251,6 @@
     "03-CP/Untitled.md",
     "03-CP/Leetcode",
     "01-DSA/Untitled.md",
-    "00-Inbox/Untitled.md",
     "PLAN_1.md",
     "99-Templates/algo_problem.md",
     "99-Templates/daily_log.md",
@@ -266,7 +268,6 @@
     "05-Projects",
     "04-English",
     "02-Systems",
-    "01-DSA",
     "2026-06-09.md",
     "Daily Routine Starting Jan,2026.md",
     "ChullSheet/28th May.md",
