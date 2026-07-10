@@ -6,10 +6,12 @@
   "newFileFolderPath": "00-Inbox",
   "attachmentFolderPath": "00-Inbox",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
   },
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
