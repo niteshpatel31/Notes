@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "837df12a2d20c4a9",
+        "id": "0da9ca36717b6b50",
         "type": "tabs",
         "children": [
           {
-            "id": "fa00ed3f57afb509",
+            "id": "772f0294d84caeb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLAN.md",
+                "file": "RC ARDUINO & BLUETOOTH.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,88 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PLAN"
+              "title": "RC ARDUINO & BLUETOOTH"
             }
           },
           {
-            "id": "fad2a4126473ad9c",
+            "id": "013f399d33779c83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "PROJECTS.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2026-07-19 23.01.10.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "PROJECTS"
-            }
-          },
-          {
-            "id": "b3c1151411bcdbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RESOURCES.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RESOURCES"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-19 23.01.10.excalidraw"
             }
           }
-        ]
-      },
-      {
-        "id": "c30fe2af01a97ba9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b21873e4eecadbb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PROJECTS"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,13 +244,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa00ed3f57afb509",
+  "active": "013f399d33779c83",
   "lastOpenFiles": [
+    "RC ARDUINO & BLUETOOTH.md",
+    "Excalidraw/Drawing 2026-07-19 23.01.10.excalidraw.md",
+    "INFOSYS_TRACKER.md",
+    "INFOSYS.md",
+    "02-Systems/CPP/C++ Coding Style Guide.md",
+    "05-Projects/Logparse/Implementation.md",
+    "05-Projects/Logparse/Design.md",
+    "05-Projects/DPI/Implementation.md",
+    "05-Projects/DPI/Design.md",
+    "05-Projects/In-Memory Cache/Implementation.md",
+    "05-Projects/DPI",
+    "05-Projects/In-Memory Cache/Design.md",
+    "05-Projects/In-Memory Cache",
+    "05-Projects/Logparse",
     "PROJECTS.md",
-    "PLAN.md",
-    "RESOURCES.md",
-    "02-Systems/CPP/Currency Convertor.md",
+    "00-Inbox/Networking (Socket Programming).md",
+    "00-Inbox/Untitled.md",
+    "00-Inbox/Pasted Image 20260719230240_135.png",
+    "02-Systems/CPP/Untitled.md",
+    "00-Inbox/Pasted Image 20260719230303_692.png",
+    "00-Inbox/Pasted Image 20260719230258_132.png",
+    "00-Inbox/Pasted Image 20260719230214_881.png",
+    "00-Inbox/Pasted Image 20260719230138_672.png",
     "02-Systems/CPP/CPP FILE EXTENSIONS.md",
+    "RESOURCES.md",
+    "PLAN.md",
+    "02-Systems/CPP/Currency Convertor.md",
     "Excalidraw/CurrencyConvertor.excalidraw.md",
     "Addendum.md",
     "PLAN_2.md",
@@ -325,31 +282,16 @@
     "00-Inbox/2026-06-19.md",
     "00-Inbox/Pasted Image 20260619001630_444.png",
     "03-CP/Leetcode/DailyProblems/Untitled.md",
-    "Excalidraw/Drawing 2026-06-19 00.13.51.excalidraw.md",
     "03-CP/Leetcode/DailyProblems",
     "00-Inbox/Pasted Image 20260619002411_999.png",
     "00-Inbox/Pasted Image 20260619002322_669.png",
     "Untitled.canvas",
     "00-Inbox/Pasted image 20260619001306.png",
     "03-CP/Codeforces",
-    "03-CP/Untitled.md",
     "03-CP/Leetcode",
-    "01-DSA/Untitled.md",
-    "PLAN_1.md",
-    "99-Templates/algo_problem.md",
-    "99-Templates/daily_log.md",
-    "00-Inbox/Two Sum.md",
-    "Two Sum.md",
-    "99-Templates/algo_concept.md",
-    "99-Templates/system_concept.md",
-    "99-Templates/debug_session.md",
-    "Excalidraw/Drawing 2026-06-09 13.25.31.excalidraw.md",
     "Excalidraw",
     "Untitled 1.canvas",
     "Untitled 1.base",
-    "Untitled.base",
-    "99-Templates",
-    "05-Projects",
-    "04-English"
+    "Untitled.base"
   ]
 }
